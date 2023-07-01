@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="input1EditText" type="id" />
+    <item name="input2EditText" type="id" />
+    <item name="checkButton" type="id" />
+    <item name="resultImageView" type="id" />
+</resources>
